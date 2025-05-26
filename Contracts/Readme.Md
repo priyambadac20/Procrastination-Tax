@@ -103,5 +103,4 @@ The ultimate goal is to integrate this mechanism across various DeFi protocols, 
 3. Monitor tax accumulation with `calculateProcrastinationTax()`
 4. Execute promptly with `executeTransaction()` to minimize taxes
 
-**Remember: The best time to execute is now – procrastination literally costs money in this protocol!**
 
