@@ -26,7 +26,7 @@ The ultimate goal is to integrate this mechanism across various DeFi protocols, 
 - Same-day execution incurs zero tax, encouraging immediate action
 
 ### 💰 **Flexible Transaction Scheduling**
-- Schedule any type of transaction (withdrawals, swaps, staking, etc.)
+- Schedule any type of transaction (swaps, staking, etc.)
 - Deposit ETH to secure your intended transaction amount
 - Unique transaction IDs for tracking and execution
 
