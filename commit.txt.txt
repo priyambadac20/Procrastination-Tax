@@ -1,0 +1,5 @@
+Day 1 Commit
+- Learned how to make a new file
+- Practiced reverse array in C++
+- Successfully did my first text-based commit
+
