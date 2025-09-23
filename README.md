@@ -105,3 +105,4 @@ The ultimate goal is to integrate this mechanism across various DeFi protocols, 
 
 0x6060D12F51989cee279791644b45E25783118d1f
 ![Screenshot 2025-05-26 132940](https://github.com/user-attachments/assets/82774ab7-8df3-477c-9ebc-452e772fceaa)
+
