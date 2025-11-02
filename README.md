@@ -6,7 +6,7 @@ The Procrastination Tax Protocol is an innovative DeFi mechanism that encourages
 
 The protocol operates on a simple yet effective principle: the cost of indecision increases with time. Users deposit funds to schedule transactions (withdrawals, swaps, stakes, etc.), and the longer they wait to execute these transactions, the higher the tax becomes. This mechanism can be integrated into various DeFi applications to reduce analysis paralysis and encourage active participation.
 
-## Project Vision
+## Project Vision 
 
 Our vision is to create a behavioral economics-driven DeFi ecosystem that promotes decisive action and reduces the inefficiencies caused by procrastination in financial decision-making. By gamifying the cost of delay, we aim to:
 
