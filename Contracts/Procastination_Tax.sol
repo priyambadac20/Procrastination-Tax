@@ -397,4 +397,3 @@ contract ProcrastinationTax is ReentrancyGuard, Ownable {
     }
 }
 
-
