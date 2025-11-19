@@ -1,4 +1,4 @@
-// SPDX-License-Identifier:
+use// SPDX-License-Identifier:
 pragma solidity ^0.8.19;
 
 abstract contract Context {
@@ -396,3 +396,4 @@ contract ProcrastinationTax is ReentrancyGuard, Ownable {
         );
     }
 }
+
