@@ -149,6 +149,3 @@ async function getEstimatedGasCost() {
 
 module.exports = { main, getEstimatedGasCost };
 
-
-
-
