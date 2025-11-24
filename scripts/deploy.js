@@ -1,5 +1,6 @@
 const { ethers } = require("hardhat");
 
+
 async function main() {
   console.log("Starting deployment of Procrastination Tax contract...");
 
